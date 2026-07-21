@@ -241,9 +241,7 @@ aside.sidebar {
   overflow: visible;
   display: grid;
   grid-template-columns: auto auto 1fr auto;
-  grid-template-areas:
-    "mark name nav contact"
-    "mark affiliation nav contact";
+  grid-template-areas: "mark name nav contact";
   align-items: center;
   column-gap: 16px;
   background: rgba(255, 253, 248, .92);
@@ -693,7 +691,6 @@ h2::before {
     grid-template-columns: auto auto 1fr;
     grid-template-areas:
       "mark name contact"
-      "mark affiliation contact"
       "nav nav nav";
     row-gap: 12px;
   }
@@ -709,7 +706,6 @@ h2::before {
     grid-template-columns: auto 1fr;
     grid-template-areas:
       "mark name"
-      "mark affiliation"
       "nav nav";
     border-bottom: 1px solid rgba(29,66,138,.13);
   }
