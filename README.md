@@ -26,10 +26,9 @@ python3 -m http.server 8000
 
 ## 部署
 
-GitHub 仓库：`https://github.com/123zgj123/gjzhang.github.io`
+GitHub 仓库：`https://github.com/123zgj123/123zgj123.github.io`
 
-由于 GitHub Pages 的根域名必须和账号名一致，账号 `123zgj123` 下的实际项目地址为：
-`https://123zgj123.github.io/gjzhang.github.io/`。
+用户主页地址：`https://123zgj123.github.io/`。
 
 ## 后续可补充
 
